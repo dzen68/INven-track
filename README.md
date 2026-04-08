@@ -90,16 +90,11 @@ Market research shows **43% of companies still rely on spreadsheets** for invent
 
 ---
 
-## 📄 Documentation
-
-- [Product Requirements Document (PRD)](./docs/InvenTrack_PRD.docx)
-
----
-
 ## 👤 Author
 
-**Ritesh Khalale** — 2nd Year Diploma, Computer Engineering, Pune
-[GitHub](https://github.com/dzen68) · [LinkedIn](#)
+**Ritesh Khalale** — 2nd Year Diploma, Computer Engineering, Pune.
+GMail - Khalaleritesh@gmail.com
+[GitHub](https://github.com/dzen68) · [LinkedIn](www.linkedin.com/in/ritesh-khalale-340489314)
 
 ---
 
